@@ -119,8 +119,8 @@ class Function:
     def email(self):
         obj.tell("Ok sir, I am ready to send email, just give me receivers email id")
 
-        myemail = "gkaple15@gmail.com"
-        password = 'rjku gdye aqhk vwti'
+        myemail = "g******5@gmail.com"
+        password = '#### #### #### ####'
         receiver = input("Enter receivers email-id here=")
         s = smtplib.SMTP('smtp.gmail.com',587)
         try:
