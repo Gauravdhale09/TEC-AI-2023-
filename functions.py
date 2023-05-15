@@ -85,7 +85,7 @@ class Function:
             print('\nHey I am Rayan your AI prompt, tell me how can i help you?')
             obj.tell('Hey I am Rayan your AI prompt, tell me how can i help you?')
 
-            openai.api_key = "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"
+            openai.api_key = "API key"
 
             while True:
                 model_engine = "text-davinci-003"
