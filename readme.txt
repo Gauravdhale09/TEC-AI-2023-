@@ -13,11 +13,12 @@
 				5.os
 				6.openai
 				7.smtplib
+      8.speedtest
 
 
 4.Installation --> 1. python 3.10  ==> https://www.python.org/downloads/release/python-3100/
 		   2. Pycharm IDE ==> https://www.jetbrains.com/pycharm/download/#section=windows
-		   3. python modules ==> Go to cmd and type : pip install Appopener
+		   3. python modules ==> Go to cmd and type : pip install Appopener (Install all above libraries like this)
 
 5.Execution --> Execute the code in pycharm IDE
 
